@@ -1,0 +1,90 @@
+[
+    {
+        "serial":"AA56C79B2",          
+        "titulo":"The Poppy War",
+        "autor":"R.F. Kuang",
+        "editorial":"Penguin Libros",
+        "ano":2018,
+        "generos": ["ficción", "historia", "drama"],
+        "precio":25,
+        "unidades":6,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515691735i/35068705.jpg"
+    },
+    {
+        "serial":"AW3ED45TG",          
+        "titulo":"Alas de Sangre",
+        "autor":"Rebecca Yarros",
+        "editorial":"Planeta",
+        "ano":2023,
+        "generos": ["fantasía", "romance", "ficción"],
+        "precio":30,
+        "unidades":8,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689055697i/187622892.jpg"
+    },
+    {
+        "serial":"SFAT234K9",          
+        "titulo":"Misery",
+        "autor":"Stephen King",
+        "editorial":"Penguin Libros",
+        "ano":1987,
+        "generos": ["terror", "thriller"],
+        "precio":15,
+        "unidades":10,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554220401i/10614.jpg"
+    },
+    {
+        "serial":"CO9RT543D",          
+        "titulo":"Cress",
+        "autor":"Marissa Meyer",
+        "editorial":"Montena",
+        "ano":2014,
+        "generos": ["sci-fi", "fantasía"],
+        "precio":28,
+        "unidades":5,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470057005i/13206828.jpg"
+    },
+    {
+        "serial":"B7GYC734E",          
+        "titulo":"Un Cuento Perfecto",
+        "autor":"Elisabet Benavent",
+        "editorial":"Suma",
+        "ano":2018,
+        "generos": ["comedia", "romance"],
+        "precio":30,
+        "unidades":8,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574343045i/48907056.jpg"
+    },
+    {
+        "serial":"UC78Y734E",          
+        "titulo":"Coraline",
+        "autor":"Neil Gaiman",
+        "editorial":"Planeta",
+        "ano":2002,
+        "generos": ["terror"],
+        "precio":10,
+        "unidades":3,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493497435i/17061.jpg"
+    },
+    {
+        "serial":"93LRQ2N5Y",          
+        "titulo":"Verity",
+        "autor":"Colleen Hoover",
+        "editorial":"Planeta",
+        "ano":2018,
+        "generos": ["thriller"],
+        "precio":26,
+        "unidades":9,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634158558i/59344312.jpg"
+    },
+    {
+        "serial":"DOUJ8943D",          
+        "titulo":"Cinder",
+        "autor":"Marissa Meyer",
+        "editorial":"Montena",
+        "ano":2012,
+        "generos": ["sci-fi", "fantasía", "romance"],
+        "precio":28,
+        "unidades":1,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507557775i/36381037.jpg"
+    }
+]
